@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ArgriaBase">
+    <output-path>$PROJECT_DIR$/../../../../../Export</output-path>
+    <root id="archive" name="ArgriaBase.jar">
+      <element id="module-output" name="ProjectsBase Roleplay" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/plugin.yml" />
+    </root>
+  </artifact>
+</component>

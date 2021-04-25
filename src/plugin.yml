@@ -1,0 +1,106 @@
+name: ProjectsBase
+version: Release 2.13.0 Export 1812 (Argria-Edition)
+author: nerotvlive
+authors:
+  - nerotvlive
+  - DannyTheOne
+depend:
+  - WorldGuardEvents
+loadbefore:
+  - Minecord
+api-version: 1.16
+main: de.nerotv.projectsbase.primal.Main
+commands: 
+  ?:
+    aliases: [help,helps,info,information,ver,version,spigot,projekt,project,vanilla,bukkit,pl,plugins,helps,helpings,hilfe,informationen]
+  fix:
+  difficulty: 
+  srl:
+    aliases: [srs,serverrl,restart,serverreload,rl,stop,reload,reloadserver]
+  gamemode: 
+    aliases: [gm,spielmodus,sm]
+  setspawn:
+  forcename:
+  heal:
+  feed:
+  changemotd:
+  kill:
+  gommemode:
+  arena:
+  forcejob:
+  novus:
+  event:
+  setarena:
+  Buch:
+    aliases: [book,feder,schreiben,write]
+  rucksack:
+    aliases: [rs,sack,beutel]
+  warp:
+    aliases: [tpg,wrp,tlp]
+  rewards:
+    aliases: [reward,shop,rewards,belohnung,belohnungen]
+  name:
+    aliases: [rename,roleplayname,nick,nickname,rpname,rn,rname,roleplayn]
+  spawn:
+    aliases: [falken,falkenwacht,stadt]
+  shervann:
+    aliases: [primal2,sher,stadt2,2stadt]
+  saergo:
+  setFarmwelt:
+  maintenance:
+    aliases: [wartung,wartungen,wartungsarbeiten]
+  falkenwacht:
+  setfalkenwacht:
+  Farmwelt:
+    aliases: [farm,fw]
+  chatclear: 
+    aliases: [cc, clearchat,cchat,clearc,chatc]
+  job:
+  rp:
+    aliases: [roleplay,rpmode,rpstate,rptoggle]
+  pbq:
+  support:
+  projectsbase:
+    aliases: [projectbase,base,primal,primal2,primal3,primal1,primalb,primalbase]
+  rules:
+    aliases: [regeln]
+  money:
+  setshervann:
+  check:
+  teleport:
+    aliases: [tp,port]
+  time:
+  day:
+    aliases: [tag,hell]
+  night:
+    aliases: [nacht,dunkel]
+  argria:
+    aliases: [admin,proj]
+  weather:
+    aliases: [wetter,wea]
+  sun:
+    aliases: [sunny,sonne]
+  rain:
+    aliases: [rainy,regen]
+  thunder:
+    aliases: [storm.gewitter]
+  broadcast:
+    aliases: [bc,b]
+  inventory:
+    aliases: [inv,int]
+  me:
+    aliases: [do,ich,tu]
+  say:
+  msg:
+    aliases: [r,reply,tell,whisper]
+  team:
+    aliases: [tee,tea]
+  chat:
+  sudo:
+    aliases: [su,sp]
+  author:
+    aliases: [authors,autor,autoren,autorin,autorinnen]
+  disconnect:
+    aliases: [disc,dc]
+  kick:
+    aliases: [remove,ban,pardon,unban]

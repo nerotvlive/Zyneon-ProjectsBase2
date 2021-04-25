@@ -1,0 +1,162 @@
+Version 0.1:
+- /help Befehl
+- /fix Befehl
+- automatisches Neuladen der Craftingrezepte beim Joinen.
+
+Version 0.2:
+- Einstellbarer /help Befehl mit Config
+- Basesystem
+- /gamemode Befehl
+- Bugfixes
+
+Version 0.3:
+- AAA-Befehl Beispielklasse
+- /chatclear
+- /difficulty
+- Sitsystem
+- ProjectsBase API
+- Bugfixes
+
+Version 0.4:
+- /setspawn Befehl
+- /spawn Befehl
+- /setfarmwelt Befehl
+- /farmwelt Befehl
+- /srl Befehl
+- Weltensystem extern hinzugef�gt
+- Bugfixes
+
+Version 0.5:
+- Chatsystem
+- Extra API Klasse
+- /gamemode Befehl �berarbeitet
+- /roleplay Befehl
+- /job Befehl
+- Bugfixes
+
+Version 0.6:
+- Dialogsystem f�r NPC's hinzugef�gt
+- Bugfixes
+
+Version 0.7:
+- API Verbesserungen
+- Performanceverbesserungen
+- Tabsystem extern hinzugef�gt
+- Bugfixes
+
+Version 0.8:
+- Dialogsystem f�r NPC's zu einem Questsystem erweitert
+- /pbq Befehl - macht nur in verbindung mit quests was, sonst nichts
+- Spawnunverwundbarkeitssystem extern hinzugef�gt
+- Sitsystem entfernt & als eigenst�ndiges Plugin hinzugef�gt
+- Bugfixes
+
+Version 0.9:
+- /name Befehl
+- /forcename Befehl
+- /support Befehl
+- /srl Befehl �berarbeitet
+- /heal Befehl
+- /kill Befehl
+- QuestSystem Verbesserung
+- Chatsystem mit /name kompatibel gemacht
+- Bugfixes
+
+Version 1.0 Beta:
+- Verbesserung am PBQ-System
+- Bugfixes
+
+Version 1.0 Beta Patch 1:
+- /pbq Befehl �berarbeitet
+- Bugfixes
+
+Version 1.0 Beta Patch 2:
+- Plugin Meta hinzugef�gt [description]
+
+Version 1.0 Beta Patch 3:
+- /kill Befehl Brenn-Bug fixed
+- /support Befehl Formatierung fixed
+- /name Bugfix beim Anzeigen der Regel
+
+Version 1.0 Beta Patch 4:
+- /rules Befehl hinzugef�gt
+
+Version 1.0 Beta Patch 5:
+- F�r /rules folgende Alias-Befehle geadded:
+    - /regeln
+
+Version 1.0 Beta Patch 6:
+- Versionstate im Plugin zum Plugin automatisiert.
+  -> Er updated sich in den Befehlen/Displays automatisch
+- /project Befehl hinzufef�gt
+- /projectsbase - /base Befehl hinzugef�gt
+
+Version 1.0 Beta Patch 7:
+- vanDuin Text Fix
+
+Version 1.0:
+- /feed Befehl hinzugef�gt
+- Vollversion 1 ver�ffentlicht
+- Bugfixes
+    
+Version 1.0.1:
+- Bugfixes
+
+Version 1.0.2:
+- Firstjoin Message
+- Bugfixes
+
+Version 1.0.3:
+- Bugfixes
+
+Version 1.0.4:
+- Verbesserungen am PBQ System
+- Bugfixes (mutma�lich)
+
+Version 1.0.5:
+- Player werden getrennt gespeichert
+- neuer JoinLeave Listener
+- Bugfixes
+
+Version 1.0.6:
+- Bugfixes
+
+Version 1.0.7:
+- Bugfixes
+
+Version 1.0.8:
+- Export to IntelliJ
+- Bugfixes
+
+Version 1.1.0:
+- Level/Achievement-System Beta
+- Bugfixes
+
+Version 1.2.0:
+- Level/Achievement-System Release
+- Rewardsystem
+- Bugfixes
+
+Version 1.3.0:
+- Chathervorhebung
+- Bugfixes
+
+Version 1.4.0:
+- Arena
+- SetArena
+- Warp
+- Bugfixes
+
+Version 2.0.0:
+- Shervann
+- setShervann
+- Falkenwacht
+- setFalkenwacht
+- 30 Blöcke Chat
+- Warp überarbeitet
+- Check
+- Warp-Menü überarbeitet
+- Code aufgeräumt
+- "Umbau" zu PrimalBase
+- Teamhilfe
+- Bugfixes
